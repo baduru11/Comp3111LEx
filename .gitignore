@@ -1,0 +1,11 @@
+.DS_Store
+.idea/workspace.xml
+.idea/shelf/
+.idea/httpRequests/
+*.iml
+target/*
+!target/classes/
+target/classes/*
+!target/classes/Lab1/
+target/classes/Lab1/*
+!target/classes/Lab1/*.class
