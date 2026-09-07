@@ -33,3 +33,9 @@ Program ..Ended ...
 The commit history records the initial project, the two report heading lines, the additional welcome line, and this documentation. Compiled Java classes are tracked as requested by the worksheet.
 
 The supplied Canvas POM uses Java 26. This project uses Java 21 to match the worksheet, with the supplied JUnit and Surefire versions retained.
+
+## IntelliJ screenshot
+
+The screenshot shows the expanded `.idea` and `src` folders, `mainApp1.java`, and five commits in the Git log.
+
+![IntelliJ project and Git commit history](intellij-git-log.png)
